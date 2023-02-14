@@ -2,5 +2,5 @@
 <h1> hi students </h1>
 <h1> Sudhrshan </h1>
 <h1> this is devops jenkins clss </h1>
-<body bgcolor=yellow>
+<body bgcolor=red>
 </body>
